@@ -1,0 +1,15 @@
+C:\Users\venilson\source\repos\tresCamadas\UI\bin\Debug\tresCamadas.exe.config
+C:\Users\venilson\source\repos\tresCamadas\UI\bin\Debug\tresCamadas.exe
+C:\Users\venilson\source\repos\tresCamadas\UI\bin\Debug\tresCamadas.pdb
+C:\Users\venilson\source\repos\tresCamadas\UI\obj\Debug\Ui.csprojAssemblyReference.cache
+C:\Users\venilson\source\repos\tresCamadas\UI\obj\Debug\tresCamadas.Properties.Resources.resources
+C:\Users\venilson\source\repos\tresCamadas\UI\obj\Debug\Ui.csproj.GenerateResource.cache
+C:\Users\venilson\source\repos\tresCamadas\UI\obj\Debug\Ui.csproj.CoreCompileInputs.cache
+C:\Users\venilson\source\repos\tresCamadas\UI\obj\Debug\tresCamadas.exe
+C:\Users\venilson\source\repos\tresCamadas\UI\obj\Debug\tresCamadas.pdb
+C:\Users\venilson\source\repos\tresCamadas\UI\obj\Debug\tresCamadas.Form1.resources
+C:\Users\venilson\source\repos\tresCamadas\UI\bin\Debug\Business.dll
+C:\Users\venilson\source\repos\tresCamadas\UI\bin\Debug\DataBase.dll
+C:\Users\venilson\source\repos\tresCamadas\UI\bin\Debug\Business.pdb
+C:\Users\venilson\source\repos\tresCamadas\UI\bin\Debug\DataBase.pdb
+C:\Users\venilson\source\repos\tresCamadas\UI\obj\Debug\Ui.csproj.CopyComplete
