@@ -3,11 +3,13 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 16
 VisualStudioVersion = 16.0.30804.86
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DataBase", "DataBase\DataBase.csproj", "{9634E6DC-AE4D-49A0-B43C-5394CD759DF5}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DataBaseTxt", "DataBase\DataBaseTxt.csproj", "{9634E6DC-AE4D-49A0-B43C-5394CD759DF5}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Business", "Business\Business.csproj", "{18A43EE5-EA3F-4839-A701-AF8A9DDF42DF}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Ui", "UI\Ui.csproj", "{65D58957-3CBA-49B9-9C60-C02E446ED57D}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DataBaseMySQL", "DataBaseMySQLL\DataBaseMySQL.csproj", "{A3D99286-6446-4A30-99A1-27FC1C2DCC41}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -27,6 +29,10 @@ Global
 		{65D58957-3CBA-49B9-9C60-C02E446ED57D}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{65D58957-3CBA-49B9-9C60-C02E446ED57D}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{65D58957-3CBA-49B9-9C60-C02E446ED57D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A3D99286-6446-4A30-99A1-27FC1C2DCC41}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A3D99286-6446-4A30-99A1-27FC1C2DCC41}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A3D99286-6446-4A30-99A1-27FC1C2DCC41}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A3D99286-6446-4A30-99A1-27FC1C2DCC41}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

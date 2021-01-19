@@ -45,9 +45,13 @@
     <Compile Include="Usuario.cs" />
   </ItemGroup>
   <ItemGroup>
-    <ProjectReference Include="..\DataBase\DataBase.csproj">
+    <ProjectReference Include="..\DataBaseMySQLL\DataBaseMySQL.csproj">
+      <Project>{a3d99286-6446-4a30-99a1-27fc1c2dcc41}</Project>
+      <Name>DataBaseMySQL</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\DataBase\DataBaseTxt.csproj">
       <Project>{9634e6dc-ae4d-49a0-b43c-5394cd759df5}</Project>
-      <Name>DataBase</Name>
+      <Name>DataBaseTxt</Name>
     </ProjectReference>
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />

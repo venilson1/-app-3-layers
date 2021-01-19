@@ -1,4 +1,5 @@
-﻿using Database;
+﻿//using DatabaseTxt;
+using DataBaseMySQL;
 using System;
 using System.Collections.Generic;
 using System.Configuration;
@@ -17,7 +18,6 @@ namespace Business
         }
 
        
-
         public Usuario() { }
 
     }

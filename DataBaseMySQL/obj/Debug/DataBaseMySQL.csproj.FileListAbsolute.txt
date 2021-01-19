@@ -1,0 +1,8 @@
+C:\Users\venilson\source\repos\tresCamadas\DataBaseMySQLL\bin\Debug\DataBaseMySQLL.dll
+C:\Users\venilson\source\repos\tresCamadas\DataBaseMySQLL\bin\Debug\DataBaseMySQLL.pdb
+C:\Users\venilson\source\repos\tresCamadas\DataBaseMySQLL\bin\Debug\MySql.Data.dll
+C:\Users\venilson\source\repos\tresCamadas\DataBaseMySQLL\obj\Debug\DataBaseMySQL.csprojAssemblyReference.cache
+C:\Users\venilson\source\repos\tresCamadas\DataBaseMySQLL\obj\Debug\DataBaseMySQL.csproj.CoreCompileInputs.cache
+C:\Users\venilson\source\repos\tresCamadas\DataBaseMySQLL\obj\Debug\DataBaseMySQL.csproj.CopyComplete
+C:\Users\venilson\source\repos\tresCamadas\DataBaseMySQLL\obj\Debug\DataBaseMySQLL.dll
+C:\Users\venilson\source\repos\tresCamadas\DataBaseMySQLL\obj\Debug\DataBaseMySQLL.pdb

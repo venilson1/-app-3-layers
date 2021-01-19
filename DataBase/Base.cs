@@ -3,7 +3,7 @@ using System.Collections.Generic;
 using System.Configuration;
 using System.IO;
 
-namespace Database
+namespace DatabaseTxt
 {
     public class Base : IPessoa
     {

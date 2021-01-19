@@ -7,3 +7,6 @@ C:\Users\venilson\source\repos\tresCamadas\Business\obj\Debug\Business.csproj.Co
 C:\Users\venilson\source\repos\tresCamadas\Business\obj\Debug\Business.csproj.CopyComplete
 C:\Users\venilson\source\repos\tresCamadas\Business\obj\Debug\Business.dll
 C:\Users\venilson\source\repos\tresCamadas\Business\obj\Debug\Business.pdb
+C:\Users\venilson\source\repos\tresCamadas\Business\bin\Debug\DataBaseMySQLL.dll
+C:\Users\venilson\source\repos\tresCamadas\Business\bin\Debug\MySql.Data.dll
+C:\Users\venilson\source\repos\tresCamadas\Business\bin\Debug\DataBaseMySQLL.pdb

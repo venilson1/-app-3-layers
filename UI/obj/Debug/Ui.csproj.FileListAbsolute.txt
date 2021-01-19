@@ -13,3 +13,6 @@ C:\Users\venilson\source\repos\tresCamadas\UI\bin\Debug\DataBase.dll
 C:\Users\venilson\source\repos\tresCamadas\UI\bin\Debug\Business.pdb
 C:\Users\venilson\source\repos\tresCamadas\UI\bin\Debug\DataBase.pdb
 C:\Users\venilson\source\repos\tresCamadas\UI\obj\Debug\Ui.csproj.CopyComplete
+C:\Users\venilson\source\repos\tresCamadas\UI\bin\Debug\DataBaseMySQLL.dll
+C:\Users\venilson\source\repos\tresCamadas\UI\bin\Debug\MySql.Data.dll
+C:\Users\venilson\source\repos\tresCamadas\UI\bin\Debug\DataBaseMySQLL.pdb
