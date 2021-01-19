@@ -45,7 +45,7 @@
     <Compile Include="Usuario.cs" />
   </ItemGroup>
   <ItemGroup>
-    <ProjectReference Include="..\DataBaseMySQLL\DataBaseMySQL.csproj">
+    <ProjectReference Include="..\DataBaseMySQL\DataBaseMySQL.csproj">
       <Project>{a3d99286-6446-4a30-99a1-27fc1c2dcc41}</Project>
       <Name>DataBaseMySQL</Name>
     </ProjectReference>

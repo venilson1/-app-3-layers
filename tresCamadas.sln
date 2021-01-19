@@ -9,7 +9,7 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Business", "Business\Busine
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Ui", "UI\Ui.csproj", "{65D58957-3CBA-49B9-9C60-C02E446ED57D}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DataBaseMySQL", "DataBaseMySQLL\DataBaseMySQL.csproj", "{A3D99286-6446-4A30-99A1-27FC1C2DCC41}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DataBaseMySQL", "DataBaseMySQL\DataBaseMySQL.csproj", "{A3D99286-6446-4A30-99A1-27FC1C2DCC41}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution

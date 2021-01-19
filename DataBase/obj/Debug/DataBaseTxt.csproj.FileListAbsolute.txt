@@ -8,7 +8,6 @@ C:\Users\venilson\source\repos\tresCamadas\DataBase\bin\Debug\System.Configurati
 C:\Users\venilson\source\repos\tresCamadas\DataBase\bin\Debug\System.Security.AccessControl.xml
 C:\Users\venilson\source\repos\tresCamadas\DataBase\bin\Debug\System.Security.Permissions.xml
 C:\Users\venilson\source\repos\tresCamadas\DataBase\bin\Debug\System.Security.Principal.Windows.xml
-C:\Users\venilson\source\repos\tresCamadas\DataBase\obj\Debug\DataBaseTxt.csprojAssemblyReference.cache
 C:\Users\venilson\source\repos\tresCamadas\DataBase\obj\Debug\DataBaseTxt.csproj.CoreCompileInputs.cache
 C:\Users\venilson\source\repos\tresCamadas\DataBase\obj\Debug\DataBaseTxt.csproj.CopyComplete
 C:\Users\venilson\source\repos\tresCamadas\DataBase\obj\Debug\DataBase.dll

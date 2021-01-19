@@ -1,10 +1,6 @@
 ﻿using MySql.Data.MySqlClient;
 using System;
-using System.Collections.Generic;
 using System.Configuration;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
 
 namespace DataBaseMySQL
 {
@@ -45,7 +41,7 @@ namespace DataBaseMySQL
 
             MySqlCommand command = new MySqlCommand(
                     "insert into " + this.GetType().Name + "s (" +
-                    "ID, " +
+                    "nome, " +
                     "telefone, " +
                     "cpf) " +
                     "values('" + this.Nome + "', '" + this.Telefone + "', '" + this.CPF + "')", connection);
