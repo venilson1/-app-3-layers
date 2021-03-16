@@ -5,7 +5,7 @@ Este Projeto é um protótipo do curso de C# do torne se um programador, Ele ilu
 
 ## Começando...
 
-- [.NET Framework 4.8: Necessário para executar o projeto Java](https://dotnet.microsoft.com/download/dotnet-framework/net48)
+- [.NET Framework 4.8: Necessário para executar o projeto .NET](https://dotnet.microsoft.com/download/dotnet-framework/net48)
 - [Servidor Apache: Necessário para salvar os dados no banco de dados MySql](https://www.apachefriends.org/pt_br/download.html)
 - [Visual Studio: Para desenvolvimento do projeto](https://visualstudio.microsoft.com/pt-br/downloads/)
 
